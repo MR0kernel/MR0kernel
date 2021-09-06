@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my version of the CryptoZombies project
 - 🌱 I’m currently learning Solidity
-- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR0kernel&theme=dark&show_icons=true)
 
 
