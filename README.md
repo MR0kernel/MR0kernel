@@ -5,7 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR0kernel&theme=ocean_dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR0kernel&show_icons=true)](https://github.com/MR0kernel/CryptoZombies)
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
