@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/MR0kernel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MR0kernel&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR0kernel&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MR0kernel&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR0kernel&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR0kernel&theme=ocean_dark&show_icons=true)
