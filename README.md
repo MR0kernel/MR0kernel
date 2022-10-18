@@ -1,7 +1,6 @@
 ### Welcome
 
-- 🔭 I’m currently working on my version of the CryptoZombies project
-- 🌱 I’m currently learning Solidity
+- 🌱 Solidity full stack 
 
 
  <div>
