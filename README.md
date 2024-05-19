@@ -1,6 +1,7 @@
 ### Welcome
 
-- 🌱 Solidity full stack 
+- 🌱 Solidity full stack
+- learning bend
 
 
  <div>
