@@ -1,5 +1,6 @@
 ### Welcome
 
+- 42 lyon student
 - 🌱 Solidity full stack
 - learning bend
 
